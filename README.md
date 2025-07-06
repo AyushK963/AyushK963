@@ -50,14 +50,6 @@
 
 ---
 
-## 🔊 Now Playing
-
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31rjfyfdiulb72dqhyzqerwluhwm&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)][](https://open.spotify.com/playlist/0vdsJiAMGdak8jrFnvieeZ)
-
-> _**Note**: Replace with your actual Spotify `user_id` from https://open.spotify.com/account_
-
----
-
 ## 📊 Visitor Counter
 
 <p align="left">
