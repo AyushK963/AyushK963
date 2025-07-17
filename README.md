@@ -66,5 +66,5 @@
 
 ---
 
-> ✨ *“Code with passion. Deploy with purpose.”*
+>  *“Code with passion. Deploy with purpose.”*
 
